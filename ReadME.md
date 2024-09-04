@@ -17,8 +17,8 @@ This Flask application allows users to upload an image to predict the gender of 
 ### 1. Clone the Repository
 
 ```bash
-git clone github.com/rohitb0304/Gender-Classification.git>
-cd <your-repo-directory>
+git clone (https://github.com/Rohitb0304/Gender-Classification.git)>
+cd (https://github.com/Rohitb0304/Gender-Classification.git)>
 ```
 
 ### 2. Install Requirements
